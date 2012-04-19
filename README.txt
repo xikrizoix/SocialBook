@@ -14,4 +14,4 @@ SocialBook will provide a few features in Minecraft.
 - Joining a party - /friend jparty <player> joins the party at <player>'s house. They need to start the party first.
 - Ending a party - /friend eparty ends the party at your place.
 - Relationships - /relation add <player> <relation> adds <player> to being your <relation> (possible relationships are: Father, Mother, Brother, Sister, Cousin, Grandfather, Grandmother, Nephew, Niece, Pet, Aunt, Uncle)
-- 
+- Test
